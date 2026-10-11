@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="McDecision 三种饮食人格">
+  <title>McDecision · 选择困难症救星</title>
+
+  <rect x="0" y="0" width="800" height="300" rx="14" fill="#FFFDF7"/>
+
+  <text x="36" y="52" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#2C2C2A">McDecision</text>
+  <text x="36" y="80" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="16" fill="#5F5E5A">选择困难症救星 · 基于麦当劳中国官方 MCP 的三人格点餐决策助手</text>
+  <text x="36" y="104" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" fill="#888780">30+ 个官方工具里，没有一个是「推荐」接口 —— 决策逻辑，才是这个项目的全部</text>
+
+  <rect x="36" y="128" width="233" height="140" rx="12" fill="#E6F1FB" stroke="#185FA5" stroke-width="1"/>
+  <circle cx="62" cy="158" r="13" fill="#378ADD"/>
+  <text x="62" y="158" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">1</text>
+  <text x="86" y="158" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#0C447C" dominant-baseline="central">看心情</text>
+  <text x="56" y="188" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" fill="#185FA5">加权随机，不是纯抽</text>
+  <text x="56" y="210" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#378ADD">偏好 + 时段 + 近期不重复</text>
+  <text x="56" y="228" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#378ADD">+ 在售活动，共同加权</text>
+  <text x="56" y="252" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#185FA5">抽完告诉你：为什么是它</text>
+
+  <rect x="284" y="128" width="233" height="140" rx="12" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+  <circle cx="310" cy="158" r="13" fill="#1D9E75"/>
+  <text x="310" y="158" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">2</text>
+  <text x="334" y="158" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#085041" dominant-baseline="central">薅一把</text>
+  <text x="304" y="188" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" fill="#0F6E56">先领券，再在预算内试算</text>
+  <text x="304" y="210" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#1D9E75">输出性价比 Top3</text>
+  <text x="304" y="228" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#1D9E75">并回答：这单到底值不值</text>
+  <text x="304" y="252" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#0F6E56">金额全部来自官方计价</text>
+
+  <rect x="532" y="128" width="233" height="140" rx="12" fill="#FAEEDA" stroke="#854F0B" stroke-width="1"/>
+  <circle cx="558" cy="158" r="13" fill="#EF9F27"/>
+  <text x="558" y="158" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central">3</text>
+  <text x="582" y="158" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#633806" dominant-baseline="central">宠自己</text>
+  <text x="552" y="188" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="13" fill="#854F0B">价格靠边站，馋什么说了算</text>
+  <text x="552" y="210" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#BA7517">按口味画像匹配度排序</text>
+  <text x="552" y="228" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#BA7517">越用越懂你，本地留存</text>
+  <text x="552" y="252" font-family="PingFang SC, Microsoft YaHei, Helvetica, Arial, sans-serif" font-size="12" fill="#854F0B">给出犒劳自己的理由</text>
+</svg>

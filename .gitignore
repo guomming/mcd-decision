@@ -1,0 +1,6 @@
+mcp-config.json
+preferences.json
+.env
+*.token
+__pycache__/
+*.pyc
